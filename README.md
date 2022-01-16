@@ -5,7 +5,7 @@
 Working with our partner Jennifer, we will analyze Amazon reviews written by members of the paid Amazon Vine program as we are trying to identify if there is positivity bias for paid review programs. To get started on this project we will review one of 50 datasets for a product category is a part of this program. Our intial analysis will be on the electronics category. 
 
 In this analysis we will: 
- - PySpark to extrct the dataset, transform the data and connect with an Amazon RDS instance that will allow us to query the infomration using postgres. 
+ - Use PySpark to extrct the dataset, transform the data and connect with an Amazon RDS instance that will allow us to query the infomration using postgres. 
  - We will use Google Colaboratory to build our application and connect our tools. 
 
 ---
